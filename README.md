@@ -1,3 +1,3 @@
 # Hi-go
 
-A Hello world fo go copied from Golang repos.
+Go hello world example.
